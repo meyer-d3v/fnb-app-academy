@@ -37,8 +37,8 @@ A PDF version of my certificate will be uploaded once I successfully complete th
 
 ## 🔗 Useful Links
 
-- [FNB Developer Program Overview]([https://appoftheyear.co.za/])
-- [My LinkedIn]([https://www.linkedin.com/in/dean-meyer-385342247/])
+- [FNB Developer Program Overview](https://appoftheyear.co.za/)
+- [My LinkedIn](https://www.linkedin.com/in/dean-meyer-385342247/)
 
 ## 🙌 Acknowledgements
 
